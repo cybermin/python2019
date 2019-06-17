@@ -1,6 +1,5 @@
 # 2019 Python 과제 공유
-
-<small>
+ 
 학과	|성명	|	기말과제주제	|	Github주소
 ---- | ---- | ---- | ---- 
 전기컴퓨터공학부	|	강동민	|	부산광역시 공중화장실 정보	|	https://github.com/gloomydumber/pyapihtmlalhpa
@@ -45,4 +44,4 @@
 수학과	|	최진성	|	부산시 교통 개선방향을 수치적, 시각적으로 명시해주는 분석	|	https://github.com/wlstjd2378/python4095
 전기컴퓨터공학부	|	최현주	|	전국 도시공원 표준데이터 분석과 Folium을 통한 시각화	|	https://github.com/HyunjuChoi/python_project
 
-</small>
+ 
