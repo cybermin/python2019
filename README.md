@@ -1,9 +1,9 @@
 # 2019 Python 과제 공유
 
-학과	|	## 성명	|	기말과제주제	|	Github주소
+학과	|성명	|	기말과제주제	|	Github주소
 ---- | ---- | ---- | ---- 
-전기컴퓨터공학부	|	## 강동민	|	부산광역시 공중화장실 정보	|	https://github.com/gloomydumber/pyapihtmlalhpa
-전기컴퓨터공학부	|	## 강민진	|	서핑에 적합한 파도가 들어올지 평가	|	https://github.com/minjcop/python2019
+전기컴퓨터공학부	|	강동민	|	부산광역시 공중화장실 정보	|	https://github.com/gloomydumber/pyapihtmlalhpa
+전기컴퓨터공학부	|	강민진	|	서핑에 적합한 파도가 들어올지 평가	|	https://github.com/minjcop/python2019
 전기컴퓨터공학부	|	김경환              	|	지역별 사고현황 시각화	|	https://github.com/ghkim123/dataAnalysis_python
 수학과	|	김나영	|	부산광역시 내의 주요 행정기관의 위치와 전화번호를 안내	|	https://github.com/201811103/python2019.
 전기컴퓨터공학부	|	김남규              	|	국민 건강검진정보 공공데이터 학습, 학습 과정 공부 및 시각화	|	https://github.com/soicem/python2019
