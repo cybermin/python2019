@@ -15,7 +15,7 @@
 수학과	|	김원진	|	미세먼지에 대한 간단한 미분방정식을 데이터	|	https://github.com/rhkwptlfgek/p2019
 전기컴퓨터공학부	|	김한영	|	지하철을 편하게 앉아서 타고갈수 있는 시간대	|	https://github.com/hanyoung918/final_homework
 수학과	|	류지연	|	관광수입 및 지출을 나타내주는 통계자료	|	https://github.com/Ryujiyeon/Python_progect1
-전기컴퓨터공학부	|	민동규              	|	서울시 자치구의 범죄 현황	|	https://github.com/mindonggyu/mindonggyu
+전기컴퓨터공학부	|	민동규  |	서울시 자치구의 범죄 현황	|	https://github.com/mindonggyu/mindonggyu
 수학과	|	민성훈	|	명절 연휴 기간 무료개방 주차장	|	https://github.com/201511118/python2019
 전자공학과	|	박성우	|	소상공인시장진흥공단 상가업소정보 데이터	|	https://github.com/sewoop/Sanga
 통계학과	|	박준형	|	2019년도 2분기 경제성장률(GDP) 예측	|	https://github.com/p930227/bigger
